@@ -1,0 +1,66 @@
+1. NIFTY-50 Stock Price Dataset
+
+Source: GitHub Repository
+
+Description: This dataset contains historical stock data for the NIFTY-50 index, including features like VWAP, trades, and turnovers over a 20-year period.
+
+Ideal For: Implementing models such as ARIMA, ARMA, LSTM, and RNN to predict stock prices. 
+
+
+2. NSE-TATAGLOBAL Stock Data
+
+Source: GitHub Repository
+
+Description: Historical stock prices of Tata Global Beverages from the National Stock Exchange (NSE).
+
+Ideal For: Applying time series models like Moving Average, ARIMA, and SARIMA for stock price forecasting. 
+
+
+3. FNSPID: Financial News and Stock Price Integration Dataset
+
+Source: GitHub Repository
+
+Description: A comprehensive dataset combining 29.7 million stock prices and 15.7 million financial news records for 4,775 S&P 500 companies from 1999 to 2023.
+
+Ideal For: Integrating quantitative stock data with qualitative financial news for enhanced predictive modeling. 
+
+
+4. StockEmotions Dataset
+
+Source: Papers With Code
+
+Description: A financial-domain-focused dataset for sentiment/emotion classification and stock market time series prediction, covering data from January 2020 to December 2020.
+
+Ideal For: Exploring the impact of investor emotions on stock price movements using multivariate time series analysis. 
+
+
+5. S&P 500 Daily Close Price Dataset
+
+Source: Stat Wizards
+
+Description: Daily closing prices of the S&P 500 index, suitable for various time series and machine learning forecasting models.
+
+Ideal For: Applying models like K-NN regression and feed-forward neural networks for stock price prediction. 
+
+
+
+---
+
+🛠️ Tools and Technologies for Time Series Analysis
+
+Programming Languages: Python, R
+
+Libraries and Frameworks:
+
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels, keras, tensorflow
+
+R: forecast, tseries, ggplot2, caret
+
+
+Models:
+
+Statistical: ARIMA, SARIMA
+
+Machine Learning: Random Forest, Gradient Boosting
+
+Deep Learning: LSTM, RNN 
